@@ -1,0 +1,46 @@
+body{
+font-family: Arial, sans-serif;
+background:#f0f4f8;
+text-align:center;
+padding:40px;
+}
+
+.container{
+background:white;
+padding:30px;
+width:350px;
+margin:auto;
+border-radius:10px;
+box-shadow:0 0 10px rgba(0,0,0,0.1);
+}
+
+input{
+padding:10px;
+width:70%;
+margin:10px;
+}
+
+button{
+padding:10px 15px;
+cursor:pointer;
+}
+
+#weatherResult{
+margin-top:20px;
+font-size:18px;
+}
+
+ul{
+list-style:none;
+padding:0;
+}
+
+li{
+cursor:pointer;
+color:blue;
+margin:5px;
+}
+
+li:hover{
+text-decoration:underline;
+}
